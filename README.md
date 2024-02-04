@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TusharSaxena2005
+- 👋 Hi, I’m Tushar Saxena
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on random startups.
